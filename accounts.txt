@@ -1,0 +1,4 @@
+customerEmail,customerQuestion 
+jarteaga@microfocus.com,Does it run Linux?
+mary@test.com,How many hours does the battery last? 
+bill@anymail.com,Is there an extended warantee?

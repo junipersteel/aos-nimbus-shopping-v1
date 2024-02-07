@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="aos-nimbus-shopping-v1" tests="1" errors="0">
+        <testcase name="Transaction Response Time: AOS_Speakers - average of 17 ms, compared to the defined amount of 1600 ms" time="0.017">
+            <system-out>SLA &#34;Transaction Response Time&#34; passed.&#xA;The transaction name: AOS_Speakers, has an average of 17 ms, compared to the defined amount of 1600 ms.</system-out>
+        </testcase>
+    </testsuite>
+</testsuites>

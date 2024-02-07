@@ -1,0 +1,15 @@
+parameters:
+  - name: customerEmail
+    type: csv
+    fileName: accounts.txt
+    columnName: customerEmail
+    nextValue: iteration
+    nextRow: sequential
+    onEnd: loop
+  - name: customerQuestion
+    type: csv
+    fileName: accounts.txt
+    columnName: customerQuestion
+    nextValue: iteration 
+    nextRow: sequential
+    onEnd: loop 
